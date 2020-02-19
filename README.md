@@ -24,7 +24,7 @@ Sua aplicação deve:
 - O Frontend fica a seu critério! Podendo usar ou não um framework, sem problemas se utilizar alguma biblioteca para componentes.
 - Deve conter a listagem de alunos, do qual deve permitir a edição, visualização e delete de cada um dos alunos.
 - Utilizar para banco de dados PostgreSQL ou MySql;
-- Cadastro de novos alunos, contendo os campos e respectivas validações e mascarás(e/ou outras melhorias para usabilidade):
+- Cadastro de novos alunos, contendo os campos, respectivas validações e mascarás(e outras melhorias para usabilidade):
 `"*" obrigatório` 
   - Foto do aluno;
   - Nome do Aluno*;
@@ -39,7 +39,7 @@ Sua aplicação deve:
 
 Extras:
 - Possibilitar a ordenação na listagem.
-- Testes (Backend de preferencia, frontend caso realize será um diferencial);
+- Testes (Backend de preferência, frontend caso realize será um diferencial);
 - Menu lateral, layout da estrutura;
 - Um relatório;
 
