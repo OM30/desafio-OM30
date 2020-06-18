@@ -59,7 +59,7 @@ Fique a vontade para incluir algum diferencial em seu desafio!
 A entrega deve ser feita em um repositório público no GitHub, que deve conter:
 
 - O código do projeto;
-- Um arquivo *README* que descreva o que foi feito e as etapas para rodar o projeto e queries iniciais, caso necessário.
+- Um arquivo *README* que descreva o que foi feito e as etapas para rodar o projeto, caso necessário.
 - Enviar o link do repositório para o seguinte email: recursoshumanos@om30.com.br. No assunto, indicar "Desafio OM30". 
 - Não esqueça de identificar o seu nome completo no corpo do email também.
 
