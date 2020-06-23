@@ -1,20 +1,21 @@
 
-# Desafio OM30 Desenvolvedor FullStack PHP
+<p align="center">
+<img src="logo.png" alt="Logo OM30" width="200" />
+</p>
+
+# Desafio OM30 - Desenvolvedor FullStack
 
 
-Olá, bem vindo ao Desafio OM30 para a vaga de desenvolvedor FullStack PHP!
+Olá, bem vindo ao Desafio OM30 para a vaga de desenvolvedor FullStack!
 
 Mais importante do que dizer quem somos, é dizer no que acreditamos. A OM30 é uma empresa que acredita na inovação como a melhor forma de trazer qualidade de vida às pessoas.
 
-Pensando nisso, nosso teste para essa oportunidade, foca em uma das partes mais importantes do sistema, o cadastro de alunos.
+Pensando nisso, nosso teste para essa oportunidade, 
 
-
-
-<img src="logo.png" alt="Logo OM30" width="250" />
 
 ## Objetivo
 
-Desenvolver um cadastro de Alunos, do qual possamos testar toda sua capacidade de elaboração de arquitetura, qualidade do código, testes, validações, elaboração de layout e usabilidade. Ah, e se possivel também, um nivel de atenção a acessibilidade!
+Desenvolver um cadastro de pacientes, do qual possamos testar toda sua capacidade de criação de arquitetura, qualidade do código, validações, elaboração de layout e usabilidade.
 
 
 ## Requisitos
@@ -23,33 +24,30 @@ Desenvolver um cadastro de Alunos, do qual possamos testar toda sua capacidade d
 Sua aplicação deve:
 
 - Obrigatóriamente para o desenvolvimento do Backend - `PHP`, podendo utilizar quaisquer framework (Atualmente utilizamos o CodeIgniter).
-- O Frontend fica a seu critério! Podendo usar ou não um framework, sem problemas se utilizar alguma biblioteca para componentes.
-- Deve conter a listagem de alunos, do qual deve permitir a edição, visualização e delete de cada um dos alunos.
-- Utilizar para banco de dados PostgreSQL ou MySql;
-- Cadastro de novos alunos, contendo os campos, respectivas validações e mascarás(e outras melhorias para usabilidade):
+- O Frontend fica a seu critério! Podendo usar ou não um framework.
+- Deve conter a listagem de paciente, do qual deve permitir a edição, visualização e delete de cada um dos pacientes.
+- Utilizar para banco de dados PostgreSQL;
+- Cadastro de novos pacientes, contendo os campos, respectivas validações e mascarás:
 `"*" obrigatório` 
-  - Foto do aluno;
-  - Nome do Aluno*;
-  - Nome da Mãe*;
-  - Data de nascimento*;
-  - RG;
+  - Foto do Paciente;
+  - Nome Completo do Paciente*;
+  - Nome completo da Mãe*;
+  - Data de Nascimento*;
   - CPF*;
-  - RA;
-  - Endereço completo(cep, endereço, rua, bairro, etc)*;
-  - Desafio: Medidas de uniforme - Como você organizaria esta opção? Como validaria?
+  - CNS*;(Cartão nacional de saúde) - Algoritmo para validação do CNS (https://integracao.esusab.ufsc.br/ledi/documentacao/regras/algoritmo_CNS.html)
+  - Endereço completo*;
 
 
-Extras:
-- Possibilitar a ordenação na listagem.
-- Testes (Backend de preferência, frontend caso realize será um diferencial);
-- Menu lateral, layout da estrutura;
-- Um relatório;
+Diferênciais:
+- Utilizar `React` para o frontend;
+- Utilizar algum padrão para commits;
+- Material Design
 
 ## O que avaliamos?
+- Lógica;
 - Código limpo e bem estruturado;
 - Performace (aplicação e consultas);
 - Criatividade;
-- Lógica;
 - Estrutura no github;
 
 Fique a vontade para incluir algum diferencial em seu desafio!
