@@ -41,7 +41,8 @@ Sua aplicação deve:
 Diferênciais:
 - Utilizar `React` para o frontend;
 - Utilizar algum padrão para commits;
-- Material Design
+- Material Design;
+- Utilizar migrations;
 
 ## O que avaliamos?
 - Lógica;
