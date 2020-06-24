@@ -3,14 +3,14 @@
 <img src="logo.png" alt="Logo OM30" width="200" />
 </p>
 
-# Desafio OM30 - Desenvolvedor FullStack
+# Desafio OM30 - Pessoa Desenvolvedora FullStack
 
 
-Olá, bem vindo ao Desafio OM30 para a vaga de desenvolvedor FullStack!
+Olá, bem vinda ao Desafio **OM30** para a vaga de Pessoa Desenvolvedora FullStack!
 
 Mais importante do que dizer quem somos, é dizer no que acreditamos. A OM30 é uma empresa que acredita na inovação como a melhor forma de trazer qualidade de vida às pessoas.
 
-Pensando nisso, nosso teste para essa oportunidade, 
+Pensando nisso, nosso teste para essa oportunidade, elaboramos um pequeno projeto desafio para conhecermos um pouco de sua experiência ;)
 
 
 ## Objetivo
@@ -23,31 +23,31 @@ Desenvolver um cadastro de pacientes, do qual possamos testar toda sua capacidad
 
 Sua aplicação deve:
 
-- Obrigatóriamente para o desenvolvimento do Backend - `PHP`, podendo utilizar quaisquer framework (Atualmente utilizamos o CodeIgniter).
-- O Frontend fica a seu critério! Podendo usar ou não um framework.
-- Deve conter a listagem de paciente, do qual deve permitir a edição, visualização e delete de cada um dos pacientes.
+- Obrigatóriamente para o desenvolvimento do Backend - `PHP`, podendo utilizar quaisquer framework (atualmente utilizamos o CodeIgniter).
+- O Frontend fica a seu critério! Porém seria muito bacana se você utiliza-se React!(biblioteca que utilizamos atualmente em alguns projetos).
+- Deve conter uma listagem de paciente, do qual deve permitir a edição, visualização e delete de cada um dos pacientes.
 - Utilizar para banco de dados PostgreSQL;
-- Cadastro de novos pacientes, contendo os campos, respectivas validações e mascarás:
-`"*" obrigatório` 
+- Utilizar migrations;
+- Cadastro de novos pacientes, contendo os campos, respectivas validações e mascarás: `"*" obrigatório` 
   - Foto do Paciente;
   - Nome Completo do Paciente*;
-  - Nome completo da Mãe*;
+  - Nome Completo da Mãe*;
   - Data de Nascimento*;
-  - CPF*;
-  - CNS*;(Cartão nacional de saúde) - Algoritmo para validação do CNS (https://integracao.esusab.ufsc.br/ledi/documentacao/regras/algoritmo_CNS.html)
+  - CPF* (com validação);
+  - CNS*(Cartão nacional de saúde);
   - Endereço completo*;
+
+Material de apoio: Algoritmo para validação do CNS (https://integracao.esusab.ufsc.br/ledi/documentacao/regras/algoritmo_CNS.html)
 
 
 Diferênciais:
 - Utilizar `React` para o frontend;
 - Utilizar algum padrão para commits;
-- Material Design;
-- Utilizar migrations;
+- Material Design ou Bootstrap;
 
 ## O que avaliamos?
 - Lógica;
-- Código limpo e bem estruturado;
-- Performace (aplicação e consultas);
+- Qualidade do código;
 - Criatividade;
 - Estrutura no github;
 
