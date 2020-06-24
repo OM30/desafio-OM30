@@ -6,7 +6,7 @@
 # Desafio OM30 - Pessoa Desenvolvedora FullStack
 
 
-Olá, bem vinda ao Desafio **OM30** para a vaga de Pessoa Desenvolvedora FullStack!
+Olá, bem vindo ao Desafio **OM30** para a vaga Desenvolvedor FullStack!
 
 Mais importante do que dizer quem somos, é dizer no que acreditamos. A OM30 é uma empresa que acredita na inovação como a melhor forma de trazer qualidade de vida às pessoas.
 
