@@ -28,7 +28,7 @@ Sua aplicação deve:
 - Deve conter uma listagem de paciente, do qual deve permitir a edição, visualização e delete de cada um dos pacientes.
 - Utilizar para banco de dados PostgreSQL;
 - Utilizar migrations;
-- Cadastro de novos pacientes, contendo os campos, respectivas validações e mascarás: `"*" obrigatório` 
+- Cadastro de novos pacientes, contendo os campos, respectivas validações e máscaras: `"*" obrigatório` 
   - Foto do Paciente;
   - Nome Completo do Paciente*;
   - Nome Completo da Mãe*;
