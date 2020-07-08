@@ -3,7 +3,7 @@
 <img src="logo.png" alt="Logo OM30" width="200" />
 </p>
 
-# Desafio OM30 - Pessoa Desenvolvedora FullStack
+# Desafio - Vaga - Pessoa Desenvolvedora FullStack PHP
 
 
 Olá, bem vindo ao Desafio **OM30** para a vaga Desenvolvedor FullStack!
@@ -20,11 +20,10 @@ Desenvolver um cadastro de pacientes, do qual possamos testar toda sua capacidad
 
 ## Requisitos
 
-
 Sua aplicação deve:
 
-- Obrigatóriamente para o desenvolvimento do Backend - `PHP`, podendo utilizar quaisquer framework (atualmente utilizamos o CodeIgniter).
-- O Frontend fica a seu critério! Porém seria muito bacana se você utiliza-se React!(biblioteca que utilizamos atualmente em alguns projetos).
+- Obrigatóriamente para o desenvolvimento do Backend - `PHP` utilizar o framework CodeIgniter.
+- O Frontend fica a seu critério!
 - Deve conter uma listagem de paciente, do qual deve permitir a edição, visualização e delete de cada um dos pacientes.
 - Utilizar para banco de dados PostgreSQL;
 - Utilizar migrations;
@@ -37,13 +36,13 @@ Sua aplicação deve:
   - CNS*(Cartão nacional de saúde);
   - Endereço completo*;
 
-Material de apoio: Algoritmo para validação do CNS (https://integracao.esusab.ufsc.br/ledi/documentacao/regras/algoritmo_CNS.html)
+## Material de apoio: 
 
+   - Algoritmo para validação do CNS (https://integracao.esusab.ufsc.br/ledi/documentacao/regras/algoritmo_CNS.html)
 
-Diferênciais:
-- Utilizar `React` para o frontend;
-- Utilizar algum padrão para commits;
-- Material Design ou Bootstrap;
+## Diferênciais:
+  - Processo de autenticação da API;
+  - Utilizar algum padrão para commits;
 
 ## O que avaliamos?
 - Lógica;
@@ -53,13 +52,24 @@ Diferênciais:
 
 Fique a vontade para incluir algum diferencial em seu desafio!
 
+### Informações sobre a vaga
+
+#### Tipo de Contrato: COOPERADO
+
+#### Benefícios:
+  - Assistência médica;
+  - Assistência odontológica;
+  - Vale Refeição;
+  - Participação nos Lucros ou Resultados
+
 ## Entrega
 
 A entrega deve ser feita em um repositório público no GitHub, que deve conter:
 
 - O código do projeto;
 - Um arquivo *README* que descreva o que foi feito e as etapas para rodar o projeto, caso necessário.
-- Enviar o link do repositório para o seguinte email: recursoshumanos@om30.com.br. No assunto, indicar "Desafio OM30". 
+- Enviar o link do repositório para o seguinte email:gustavo.miguelote@om30.com.br, com cópia para gabriel. . 
+- No assunto, indicar "Desafio OM30". 
 - Não esqueça de identificar o seu nome completo no corpo do email também.
 
 
