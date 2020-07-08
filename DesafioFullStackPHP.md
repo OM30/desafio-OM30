@@ -5,10 +5,9 @@
 
 # Desafio - Vaga - Pessoa Desenvolvedora FullStack PHP
 
+Olá, bem vindo ao Desafio **OM30** para a vaga Pessoa Desenvolvedora FullStack PHP!
 
-Olá, bem vindo ao Desafio **OM30** para a vaga Desenvolvedor FullStack!
-
-Mais importante do que dizer quem somos, é dizer no que acreditamos. A OM30 é uma empresa que acredita na inovação como a melhor forma de trazer qualidade de vida às pessoas.
+Mais importante do que dizer quem somos, é dizer no que acreditamos. A **OM30** é uma empresa que acredita na inovação como a melhor forma de trazer qualidade de vida às pessoas.
 
 Pensando nisso, nosso teste para essa oportunidade, elaboramos um pequeno projeto desafio para conhecermos um pouco de sua experiência ;)
 
@@ -17,6 +16,8 @@ Pensando nisso, nosso teste para essa oportunidade, elaboramos um pequeno projet
 
 Desenvolver um cadastro de pacientes, do qual possamos testar toda sua capacidade de criação de arquitetura, qualidade do código, validações, elaboração de layout e usabilidade.
 
+## Diferênciais Técnicos para a vaga:
+- Experiência em desenvolvimento integrações com PHP;
 
 ## Requisitos
 
@@ -38,7 +39,8 @@ Sua aplicação deve:
 
 ## Material de apoio: 
 
-   - Algoritmo para validação do CNS (https://integracao.esusab.ufsc.br/ledi/documentacao/regras/algoritmo_CNS.html)
+   - Endereço: Utilizar a api do ViaCEP - https://viacep.com.br/;
+   - Algoritmo para validação do CNS (https://integracao.esusab.ufsc.br/ledi/documentacao/regras/algoritmo_CNS.html);
 
 ## Diferênciais:
   - Processo de autenticação da API;
