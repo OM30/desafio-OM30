@@ -52,3 +52,6 @@ Critérios:
 3. Frontend é opcional para o seu caso, mas, irá contar muito positivo como você fará;
 4. Ver seu teste rodando em modo produção conta MUITO. Fica ao seu criterio se faz e em qual plataforma;
 5. Lembre-se que o melhor de um profissional é sua atitude quanto a resolução de problemas. Interprete esse item como desejar ;)
+
+
+Email para dúvidas: desenvolvimento@om30.com.br
