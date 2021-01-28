@@ -30,7 +30,7 @@ Crie um CRUD de municipes (Exceto deletar). O municipe tem status ativo e inativ
 ## Dicas:
 
 ### UI/UX:
-  1. É possível otimizar o tempo de cadastro do endereço a partir do UX. Do it and show us the code ;)
+  1. É possível otimizar o tempo de cadastro do endereço a partir do UX. 
   2. Você deve minimizar o máximo possível a navegação do usuário. Como você faria isso?
 
 ### Backend:
