@@ -2,7 +2,7 @@
 
 > Iremos fazer uma grande atualização e mudanças no nosso código. Por isso, é imprescindível que você saiba Ruby e Rails. Algumas apps nossas são legadas, monolíticas, mesmo no backend você irá precisar lidar com um pouco com frontend (mas fica tranquilo, te ajudaremos nisso).
 
-> O profissional que escreveu esse teste levou 4 horas para executar todos os passos descritos e obedecendo todos os critérios.Tempo é fundamental para nós, porém, vamos focar na qualidade do seu trabalho, por isso, leve o tempo que achar necessário.
+> Tempo é fundamental para nós, porém, vamos focar na qualidade do seu trabalho, por isso, leve o tempo que achar necessário.
 
 ## Avaliação:
 
