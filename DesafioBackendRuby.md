@@ -42,7 +42,7 @@ Crie um CRUD de municipes (Exceto deletar). O municipe tem status ativo e inativ
 ## Tools:
 
 - Ruby, Ruby on Rails e Postgres são obrigatórios;
-- Elasticsearch/Kafta (opcional, plus);
+- Elasticsearch/Kafka (opcional, plus);
 - Utilize ActionView, porém, AssetPipeline/Sprockets ou uma abordagem SPA junto ao rails;
 
 Critérios:
