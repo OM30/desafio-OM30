@@ -43,7 +43,7 @@ Crie um CRUD de municipes (Exceto deletar). O municipe tem status ativo e inativ
 ## Tools:
 
 - Ruby, Ruby on Rails e Postgres são obrigatórios no backend;
-- Elasticsearch/Kafta (opcional, plus);
+- Elasticsearch/Kafka (opcional, plus);
 - Você pode escolher as abordagens abaixo:
 
 1. ActionView com AssetPipeline/Sprockets com vanilla JS ou jQuery com plugins;
